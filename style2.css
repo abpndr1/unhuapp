@@ -80,11 +80,19 @@ body > div:nth-child(3) {
   color: #fff;
 }
 
-.insta {
-  height: 100%;
-  background: #fcfcfc;
+#instaReveal {
+  background: rgba(0,0,0,0);
 }
 
+#instaReveal img {
+  margin-bottom: 21%;
+
+}
+
+.insta {
+  height: 100%;
+  background: #2394c0;
+}
 
 p {margin:1em 0;}
 
